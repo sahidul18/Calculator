@@ -1,5 +1,9 @@
 
+## Calculator
 
-![Calculator Image](https://github.com/sahidul18/Calculator/blob/master/image/calculatorUI.png)
-![](https://github.com/sahidul18/Calculator/blob/master/image/calculatorUI.PNG)
+* The calculator is created in JavaFx. It can perform addition, subtraction, multiplication, division, modular division, square root, cube root, square, power of three as well as power of n and factorial.
+* It has a main class Calculator.java and four inner class to perform different tasks. 
+* It provides the following interface when it runs.
+
+![Calculator Image](https://github.com/sahidul18/Calculator/blob/master/image/calculatorUI.PNG)
 
