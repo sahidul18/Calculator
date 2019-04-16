@@ -5,7 +5,6 @@
 * It has a main class Calculator.java and four inner class to perform different tasks. 
 * It provides the following interface when it runs.
 
-![Calculator Image](https://github.com/sahidul18/Calculator/blob/master/image/calculatorUI.PNG)
 ![](image/calculatorUI.PNG)
 
 
