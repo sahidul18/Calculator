@@ -6,5 +6,6 @@
 * It provides the following interface when it runs.
 
 ![Calculator Image](https://github.com/sahidul18/Calculator/blob/master/image/calculatorUI.PNG)
+![](image/calculatorUI.PNG)
 
 
